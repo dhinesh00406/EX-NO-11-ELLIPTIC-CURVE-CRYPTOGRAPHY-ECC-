@@ -24,8 +24,8 @@ To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 
 ## Program:
 ```c
-//DEVELOPED BY: Vignesh R
-//REF NO : 212223240177
+//DEVELOPED BY: DHINESH.P
+//REF NO : 212222043001
 #include <stdio.h>
 
 // A simple structure to represent points on the elliptic curve
